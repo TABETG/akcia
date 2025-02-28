@@ -1,16 +1,6 @@
 
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-M
-La Liste des Mots 08 2024.csv,0\1\01975ec3cb62f16715e356cc86d8009bf037a92b
-Y
-)La Liste des Mots 08 2024_Cleaned_CSV.csv,e\6\e6f4acd343024070d29c6fcacf37a1c1e87ca07e
-M
-Corrected_Sentences_Block.csv,6\4\64e6129028f014252c9bf71ee105e17a63345f04
-G
-Corrected_Sentences.csv,1\0\10f39fa83b3aa4e20cd46f5212313e8e242edf4f
-M
-La_Liste_des_Mots_08_2024.csv,2\f\2f87b586f44b781c56b192280aba5ccbe8b9eedb
 S
 #La_Liste_des_Mots_08_2024_comma.csv,8\9\894938223e546134cc579533ef8e3d1bad0e7e69
 V
@@ -30,3 +20,27 @@ V
 &La_Liste_des_Mots_08_2024_comma_V6.csv,3\8\38df4f5f307a9f6692ee3dc1d92725524c0d34a4
 V
 &La_Liste_des_Mots_08_2024_comma_V7.csv,d\7\d7404669bcba140f4b2e2c49bffe83c83305f03d
+i
+9La Liste des Mots 08 2024 - liste principale corrigé.csv,6\3\63ddde69cf93ae76bf57d15f4ce16289af63c151
+_
+/Business_La_Liste_des_Mots_08_2024_comma_V9.csv,1\8\1846c9cd05ef78a937ae531f5356b5a1d64a9ef2
+`
+0Business_La_Liste_des_Mots_08_2024_comma_V10.csv,2\8\282e7a64c05e0a331fd6c8959560652a203512cf
+`
+0Business_La_Liste_des_Mots_08_2024_comma_V11.csv,5\6\56e1c5872e8994860f418ee9c34a028c4b46c189
+`
+0Business_La_Liste_des_Mots_08_2024_comma_V12.csv,c\f\cffaf6e475cdee285b08daff78ee1b8713db988a
+^
+.Business_La_Liste_des_Mots_08_2024_comma_V8csv,d\4\d49ce7d7bf9b0422f897ea914751bb8ba3f43976
+N
+Merged_Business_Vocabulary.csv,3\5\3585faceb77e15d88f94cfa612b7aaf6b43be354
+^
+..~lock.Merged_Business_Vocabulary - Copie.csv#,f\6\f6863c9cb5e1c5a0dfac8a5c0fed642f428aaaad
+T
+$Merged_Business_Vocabulary_Step1.csv,3\c\3cb854fe9e11249a87d5f740edd68820d5613845
+T
+$Merged_Business_Vocabulary_Step2.csv,9\7\9785191d5366dffe064f5dc0f95de58f6d95d4a8
+V
+&Merged_Business_Vocabulary - Copie.csv,c\7\c7c7592b07adbb879919837946d472dd0688cf9d
+A
+Merged_8_9_10.csv,0\3\039c833413cdb95d470fb70a73b06ad49a4ede83
