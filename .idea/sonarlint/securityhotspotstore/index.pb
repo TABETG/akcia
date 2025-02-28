@@ -44,3 +44,7 @@ V
 &Merged_Business_Vocabulary - Copie.csv,c\7\c7c7592b07adbb879919837946d472dd0688cf9d
 A
 Merged_8_9_10.csv,0\3\039c833413cdb95d470fb70a73b06ad49a4ede83
+5
+SALES,4\8\481a7265d3ffd34e8e4bb8a6532fc19dfa0bd005
+9
+	Sales.csv,d\4\d42560b49e2338678ddde5b6516835a6d1cc0801
