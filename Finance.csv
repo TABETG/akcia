@@ -25,7 +25,7 @@ Accounts and Taxes,Balance sheet,The balance sheet summarizes company assets and
 Accounts and Taxes,Payroll,Payroll includes employees' wages and benefits.
 Banking, Currency, Money from another country is called currency.
 Banking, Mortgage, A mortgage is money you borrow to buy a house.
-Banking, Deposit, When you put money into your account, you make a deposit.
+Banking, Deposit, You make a deposit when you put money into your account.
 Banking, Funds, The bank may refuse a payment if there are not enough funds.
 Banking, Extra charges, Check if extra charges are incurred when choosing a new bank.
 Banking, ATM, I need to find an ATM to withdraw some cash.
@@ -47,3 +47,100 @@ Accounts & Taxes, Tax return, You need to file your tax return before the deadli
 Accounts & Taxes, Cash flow, The company’s cash flow improved this quarter.
 Accounts & Taxes, Payroll, The payroll department ensures employees are paid.
 Accounts & Taxes, Audit, A company's annual report includes an audit of finances.
+Banking, Currency, Money from another country is called currency.
+Banking, Mortgage, A mortgage is money you borrow from the bank to buy a house.
+Banking, Deposit, You make a deposit when you put money into your account.
+Banking, Funds, The bank may refuse an automatic payment if funds are insufficient.
+Banking, Overdraft, This is known as an overdraft.
+Banking, Loan, The bank approved a loan for home renovations.
+Banking, ATM, You need an ATM to withdraw cash.
+Banking, Interest, The bank charges interest on loans.
+Banking, Savings, I have put aside more savings than I thought.
+Banking, Bank Clerk, The bank clerk works at the front desk.
+Banking, Extra Charges, Check if extra charges are incurred.
+Banking, Balance, The account balance shows the available amount.
+Investments, Bankruptcy, A company must file for bankruptcy if it cannot pay debts.
+Investments, Broker, A broker buys and sells shares for clients.
+Investments, Stock Market, Investors trade stocks in the stock market.
+Investments, Assets, Company assets have economic value.
+Investments, Liabilities, Liabilities represent the company's debts.
+Investments, Equity, They purchased 59% of the equity.
+Investments, Portfolio, A portfolio contains various financial investments.
+Investments, Speculator, The goal of a speculator is to make quick profits.
+Investments, Boom, There has been a boom in salary increases.
+Investments, Slump, The economy experienced a slump last year.
+Investments, Interest Rate, The interest rate increased by 2%.
+Investments, Real Estate, Real estate is a good investment alternative.
+Investments, Diversify, Investors diversify portfolios to minimize risks.
+Investments, Skyrocket, Fuel prices will skyrocket next year.
+Budgeting, Forecast, Try to forecast the annual sales before finalizing the budget.
+Budgeting, Expenditure, We must reduce expenditure to balance our budget.
+Budgeting, Subsidy, Farmers receive a government subsidy for agriculture.
+Budgeting, Emergency Fund, Every business should have an emergency fund.
+Budgeting, Discretionary Spending, The company reduced discretionary spending this year.
+Budgeting, Petty Cash, Keep petty cash for small office expenses.
+Budgeting, Back-up Plan, Startups rarely have a back-up plan to rely on.
+Budgeting, Outcome, We are still analyzing the outcome of cost reductions.
+Budgeting, Income, The company’s income exceeded expenses this year.
+Budgeting, Turn a Profit, The business needs to turn a profit to stay open.
+Budgeting, Scarcity, Production slowed due to raw material scarcity.
+Budgeting, Brand Recognition, A flagship product boosts brand recognition.
+Accounts & Taxes, Accountant, The accountant ensures accurate financial records.
+Accounts & Taxes, Audit, The company conducted an internal audit.
+Accounts & Taxes, Tax Return, Employees must file their tax return annually.
+Accounts & Taxes, Payroll, Payroll processing ensures employee salaries are paid.
+Accounts & Taxes, Cash Flow, A positive cash flow indicates good financial health.
+Accounts & Taxes, Tax Deductions, Businesses claim tax deductions on expenses.
+Accounts & Taxes, Late Fee, A late fee applies for overdue payments.
+Accounts & Taxes, Enclosed, Please find the enclosed financial report.
+Accounts & Taxes, Balance Sheet, The balance sheet summarizes company finances.
+Accounts & Taxes, Adverse, The audit had an adverse impact on morale.
+Accounts & Taxes, Owe, The company owes taxes to the government.
+Accounts & Taxes, Keep Track, Keep track of all financial transactions.
+Accounts & Taxes, Set Aside, The accountant advised me to set aside 20% of my salary for taxes.
+Jobs,IT technician,Could you call the IT technician?
+Jobs,Security guard,Please show your ID to the security guard.
+Jobs,Job seeker,There are fewer job seekers than before.
+Jobs,Contractor,She works as a contractor.
+Jobs,Intern,The new intern is doing well.
+Human Resources & Recruitment,Staff attendance,Staff attendance is low.
+Human Resources & Recruitment,Temp agency,A temp agency offers annual leave.
+Human Resources & Recruitment,Clock in,You must clock in on time.
+Human Resources & Recruitment,Resume,Send your resume for the position.
+Human Resources & Recruitment,Provide a reference,Be ready to provide a reference.
+Banking,Deposit,When you put money into your account you make a deposit.
+Corporate Finance,Capital,The company raised capital to expand operations.
+Corporate Finance,Dividends,Shareholders received dividends at the end of the fiscal year.
+Corporate Finance,Mergers and Acquisitions,The merger between the two firms was finalized.
+Financial Risks,Market Risk,Investors hedge against market risk using derivatives.
+Financial Risks,Diversification,A diversified portfolio reduces financial risk.
+Financial Risks,Default,The company defaulted on its loan payments.
+Insurance & Retirement,Life Insurance,He purchased a life insurance policy for his family.
+Insurance & Retirement,Pension Fund,Many employees contribute to a pension fund.
+Insurance & Retirement,Indemnity,The insurer agreed to pay indemnity for the damages.
+International Trade & Economics,Trade Balance,The country has a positive trade balance.
+International Trade & Economics,Inflation,High inflation impacts purchasing power.
+International Trade & Economics,Exchange Rate,The exchange rate fluctuates daily.
+Jobs,IT technician,Could you call the IT technician?
+Jobs,Security guard,Please show your ID to the security guard.
+Jobs,Job seeker,There are fewer job seekers than before.
+Jobs,Contractor,She works as a contractor.
+Jobs,Intern,The new intern is doing well.
+Human Resources & Recruitment,Staff attendance,Staff attendance is low.
+Human Resources & Recruitment,Temp agency,A temp agency offers annual leave.
+Human Resources & Recruitment,Clock in,You must clock in on time.
+Human Resources & Recruitment,Resume,Send your resume for the position.
+Human Resources & Recruitment,Provide a reference,Be ready to provide a reference.
+Banking,Deposit,When you put money into your account you make a deposit.
+Corporate Finance,Capital,The company raised capital to expand operations.
+Corporate Finance,Dividends,Shareholders received dividends at the end of the fiscal year.
+Corporate Finance,Mergers and Acquisitions,The merger between the two firms was finalized.
+Financial Risks,Market Risk,Investors hedge against market risk using derivatives.
+Financial Risks,Diversification,A diversified portfolio reduces financial risk.
+Financial Risks,Default,The company defaulted on its loan payments.
+Insurance & Retirement,Life Insurance,He purchased a life insurance policy for his family.
+Insurance & Retirement,Pension Fund,Many employees contribute to a pension fund.
+Insurance & Retirement,Indemnity,The insurer agreed to pay indemnity for the damages.
+International Trade & Economics,Trade Balance,The country has a positive trade balance.
+International Trade & Economics,Inflation,High inflation impacts purchasing power.
+International Trade & Economics,Exchange Rate,The exchange rate fluctuates daily.
