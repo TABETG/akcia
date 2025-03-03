@@ -34,8 +34,6 @@ _
 .Business_La_Liste_des_Mots_08_2024_comma_V8csv,d\4\d49ce7d7bf9b0422f897ea914751bb8ba3f43976
 N
 Merged_Business_Vocabulary.csv,3\5\3585faceb77e15d88f94cfa612b7aaf6b43be354
-^
-..~lock.Merged_Business_Vocabulary - Copie.csv#,f\6\f6863c9cb5e1c5a0dfac8a5c0fed642f428aaaad
 T
 $Merged_Business_Vocabulary_Step1.csv,3\c\3cb854fe9e11249a87d5f740edd68820d5613845
 T
@@ -44,9 +42,9 @@ V
 &Merged_Business_Vocabulary - Copie.csv,c\7\c7c7592b07adbb879919837946d472dd0688cf9d
 A
 Merged_8_9_10.csv,0\3\039c833413cdb95d470fb70a73b06ad49a4ede83
-5
-SALES,4\8\481a7265d3ffd34e8e4bb8a6532fc19dfa0bd005
 9
 	Sales.csv,d\4\d42560b49e2338678ddde5b6516835a6d1cc0801
 >
 Work-place.csv,6\b\6b05b55f51bd4e5dd16a3849d313a7bbe840cf7b
+;
+Finance.csv,3\a\3a3df6c788afe5e901b579db0b27ae798ae99c90
