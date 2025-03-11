@@ -1,0 +1,467 @@
+Category,Theme,Sub-theme,Business Term,Example Sentence
+Health,At the Doctor's,Medical Consultation,General Practitioner,Visit a general practitioner.
+Health,At the Doctor's,Medical Consultation,Specialist Referral,Ask for a specialist referral.
+Health,At the Doctor's,Medical Procedures,Blood Test,Get a blood test.
+Health,At the Doctor's,Medical Procedures,MRI Scan,Schedule an MRI scan.
+Health,At the Doctor's,Medical Conditions,Chronic Disease,Manage chronic disease.
+Health,At the Doctor's,Medical Conditions,Acute Illness,Treat an acute illness.
+Health,At the Doctor's,Medical Treatment,Prescription Renewal,Request a prescription renewal.
+Health,At the Doctor's,Medical Treatment,Dosage Adjustment,Adjust medication dosage.
+Health,At the Doctor's,Symptoms,High Fever,Monitor high fever.
+Health,At the Doctor's,Symptoms,Chest Pain,Report chest pain.
+Health,Other Health Professionals,Eye Care,Optometrist,See an optometrist.
+Health,Other Health Professionals,Eye Care,Contact Lenses,Use contact lenses.
+Health,Other Health Professionals,Dentistry,Orthodontist,Visit an orthodontist.
+Health,Other Health Professionals,Dentistry,Dental Implant,Get a dental implant.
+Health,Other Health Professionals,Physiotherapy,Physical Rehabilitation,Start physical rehabilitation.
+Health,Other Health Professionals,Physiotherapy,Posture Correction,Practice posture correction.
+Health,Other Health Professionals,Surgery,Plastic Surgery,Consider plastic surgery.
+Health,Other Health Professionals,Surgery,Laparoscopic Procedure,Undergo a laparoscopic procedure.
+Health,Other Health Professionals,Nutrition,Registered Dietitian,Consult a registered dietitian.
+Health,Other Health Professionals,Nutrition,Macronutrient Balance,Maintain macronutrient balance.
+Health,At the Pharmacy,Medication Types,Over-the-counter Drugs,Buy over-the-counter drugs.
+Health,At the Pharmacy,Medication Types,Prescription Drugs,Take prescription drugs.
+Health,At the Pharmacy,Medication Instructions,Side Effects Warning,Read side effects warning.
+Health,At the Pharmacy,Medication Instructions,Drug Interactions,Avoid drug interactions.
+Health,At the Pharmacy,Medication Forms,Capsules,Swallow capsules.
+Health,At the Pharmacy,Medication Forms,Topical Cream,Apply topical cream.
+Health,At the Pharmacy,Pain Management,Anti-inflammatory Drugs,Use anti-inflammatory drugs.
+Health,At the Pharmacy,Pain Management,Opioid Analgesics,Take opioid analgesics.
+Health,At the Pharmacy,Supplements,Probiotics,Consume probiotics.
+Health,At the Pharmacy,Supplements,Omega-3 Fatty Acids,Take omega-3 fatty acids.
+Health,Healthy Living,Fitness,Cardiovascular Exercise,Do cardiovascular exercise.
+Health,Healthy Living,Fitness,Strength Training,Practice strength training.
+Health,Healthy Living,Mental Health,Stress Management,Learn stress management.
+Health,Healthy Living,Mental Health,Cognitive Behavioral Therapy,Try cognitive behavioral therapy.
+Health,Healthy Living,Nutrition,Caloric Deficit,Maintain caloric deficit.
+Health,Healthy Living,Nutrition,Meal Planning,Follow meal planning.
+Health,Healthy Living,Workplace Wellness,Ergonomic Desk Setup,Use ergonomic desk setup.
+Health,Healthy Living,Workplace Wellness,Mental Health Days,Take mental health days.
+Health,Healthy Living,Public Health,Vaccination Programs,Join vaccination programs.
+Health,Healthy Living,Public Health,Smoking Cessation,Start smoking cessation.
+Health, At the Doctor’s, Medical Consultation, Physician, A physician diagnoses and treats illnesses.
+Health, At the Doctor’s, Medical Consultation, Nurse, A nurse provides patient care and assists doctors.
+Health, At the Doctor’s, Medical Consultation, Health Insurance, Health insurance helps cover medical expenses.
+Health, At the Doctor’s, Medical Consultation, Co-Pay, A co-pay is a fixed amount paid for medical services.
+Health, At the Doctor’s, Medical Treatment, Medication, Medication helps treat various medical conditions.
+Health, At the Doctor’s, Medical Treatment, Tablet, Tablets are a common form of oral medication.
+Health, At the Doctor’s, Medical Treatment, Prescription, A prescription is required for certain medications.
+Health, At the Doctor’s, Medical Examination, Checkup, A checkup helps detect health issues early.
+Health, At the Doctor’s, Medical Examination, Illness, Illnesses require medical attention and treatment.
+Health, At the Doctor’s, Workplace Health, Sick Leave, Employees take sick leave when unwell.
+Health, At the Doctor’s, Hospitalization, Ward, A hospital ward accommodates patients.
+Health, At the Doctor’s, Hospitalization, Outbreak, An outbreak occurs when a disease spreads rapidly.
+Health, At the Doctor’s, Medical Procedure, Blood Pressure, Blood pressure is a key health indicator.
+Health, At the Doctor’s, Medical Procedure, Injury, Injuries require prompt medical attention.
+Health, At the Doctor’s, Medical Procedure, Headache, Headaches can be a symptom of stress.
+Health, Other Health Professionals, Medical Specialties, Dentist, A dentist treats teeth and gum problems.
+Health, Other Health Professionals, Medical Specialties, Dietician, A dietician advises on nutrition.
+Health, Other Health Professionals, Medical Specialties, Surgeon, A surgeon performs medical operations.
+Health, Other Health Professionals, Medical Specialties, Optician, An optician prescribes and fits glasses.
+Health, Other Health Professionals, Medical Specialties, Physical Therapy, Physical therapy helps restore mobility.
+Health, Other Health Professionals, Emergency Care, Emergency Services, Emergency services provide urgent medical care.
+Health, At the Pharmacy, Medication Types, Over-the-Counter (OTC), OTC drugs can be bought without a prescription.
+Health, At the Pharmacy, Medication Types, Side Effects, Medications can cause side effects.
+Health, At the Pharmacy, Medication Types, Dosage, Following dosage instructions ensures safe use.
+Health, At the Pharmacy, Medication Types, Interaction, Drug interactions can be harmful.
+Health, At the Pharmacy, Medical Condition, Swollen, Swelling can indicate an allergic reaction.
+Health, At the Pharmacy, Medical Treatment, Relieve, Some medications relieve pain effectively.
+Health, Healthy Living, Workplace Health, Occupational Health Doctor, Occupational health doctors monitor workplace health.
+Health, Healthy Living, Wellness, Well-being, Well-being contributes to overall health.
+Health, Healthy Living, Nutrition, Balanced Diet, A balanced diet provides essential nutrients.
+Health, Healthy Living, Nutrition, Junk Food, Junk food is high in calories but low in nutrition.
+Health, Healthy Living, Workplace Health, Ergonomic, Ergonomic furniture reduces workplace injuries.
+Health, Healthy Living, Workplace Health, Absenteeism, Absenteeism impacts workplace productivity.
+Health, Healthy Living, Nutrition, Special Diet, A special diet is necessary for certain health conditions.
+Health, Healthy Living, Mental Health, Counseling, Counseling supports mental well-being.
+Health, Healthy Living, Workplace Health, Resilient, Resilient employees handle stress better.
+Health, Healthy Living, Exercise, Team Sport, Team sports encourage physical activity.
+Health, At the Doctor’s, Medical Consultation, General Checkup, A general checkup helps detect health issues early.
+Health, At the Doctor’s, Medical Consultation, Physical Examination, The doctor performed a physical examination.
+Health, At the Doctor’s, Medical Consultation, Symptoms Assessment, The nurse assessed my symptoms before the consultation.
+Health, At the Doctor’s, Diagnosis & Tests, X-Ray, The doctor ordered an X-ray for my broken arm.
+Health, At the Doctor’s, Diagnosis & Tests, MRI Scan, The MRI scan showed a knee injury.
+Health, At the Doctor’s, Diagnosis & Tests, Blood Test, A blood test can check for infections.
+Health, At the Doctor’s, Diagnosis & Tests, Allergy Test, She had an allergy test for pollen sensitivity.
+Health, At the Doctor’s, Treatment, Prescription Medication, The doctor gave me a prescription medication.
+Health, At the Doctor’s, Treatment, Pain Management, He is on pain management for his back injury.
+Health, At the Doctor’s, Treatment, Physiotherapy, Physiotherapy helped me recover from surgery.
+Health, At the Doctor’s, Treatment, Surgery, The patient underwent surgery for appendicitis.
+Health, At the Doctor’s, Treatment, Wound Dressing, The nurse changed my wound dressing.
+Health, At the Doctor’s, Treatment, Bandage, He wrapped the bandage around his ankle.
+Health, At the Doctor’s, Treatment, Injections, The doctor gave me a flu vaccine injection.
+Health, At the Doctor’s, Treatment, Immunization, Children need immunization against measles.
+Health, At the Doctor’s, Treatment, Rehabilitation, Rehabilitation helped him regain strength.
+Health, At the Doctor’s, Symptoms, Fever, He has a high fever and chills.
+Health, At the Doctor’s, Symptoms, Fatigue, She feels constant fatigue due to stress.
+Health, At the Doctor’s, Symptoms, Dizziness, The dizziness made him feel unsteady.
+Health, At the Doctor’s, Symptoms, Nausea, Nausea is a common side effect of medication.
+Health, At the Doctor’s, Symptoms, Shortness of Breath, He experienced shortness of breath after running.
+Health, At the Doctor’s, Symptoms, Muscle Pain, Muscle pain can result from intense exercise.
+Health, At the Doctor’s, Symptoms, Joint Pain, Joint pain is common in older adults.
+Health, At the Doctor’s, Symptoms, Skin Rash, A skin rash appeared after the allergic reaction.
+Health, At the Doctor’s, Symptoms, Loss of Appetite, She lost her appetite due to the flu.
+Health, At the Doctor’s, Symptoms, Cough, A persistent cough can be a sign of infection.
+Health, At the Doctor’s, Symptoms, Sore Throat, A sore throat is often caused by a virus.
+Health, At the Doctor’s, Symptoms, Stomach Pain, Stomach pain can be caused by indigestion.
+Health, At the Doctor’s, Symptoms, Migraine, A migraine can last for hours or days.
+Health, Other Health Professionals, Medical Specialties, Cardiologist, A cardiologist treats heart diseases.
+Health, Other Health Professionals, Medical Specialties, Dermatologist, The dermatologist examined her skin.
+Health, Other Health Professionals, Medical Specialties, Neurologist, A neurologist specializes in brain disorders.
+Health, Other Health Professionals, Medical Specialties, Orthopedic Surgeon, An orthopedic surgeon fixes bone fractures.
+Health, Other Health Professionals, Medical Specialties, Endocrinologist, The endocrinologist manages diabetes patients.
+Health, Other Health Professionals, Medical Specialties, Pediatrician, A pediatrician takes care of children’s health.
+Health, Other Health Professionals, Medical Specialties, Gynecologist, She consulted a gynecologist for a checkup.
+Health, Other Health Professionals, Medical Specialties, Oncologist, The oncologist treats cancer patients.
+Health, Other Health Professionals, Medical Specialties, Urologist, A urologist specializes in kidney and bladder issues.
+Health, Other Health Professionals, Medical Specialties, Radiologist, The radiologist analyzed the X-ray results.
+Health, Other Health Professionals, Medical Specialties, Psychiatrist, A psychiatrist prescribes medication for mental health.
+Health, Other Health Professionals, Medical Specialties, Psychologist, A psychologist helps with emotional issues.
+Health, Other Health Professionals, Medical Specialties, Chiropractor, The chiropractor adjusted my spine.
+Health, Other Health Professionals, Medical Specialties, Acupuncturist, An acupuncturist uses needles for pain relief.
+Health, At the Pharmacy, Medications, Antibiotics, The doctor prescribed antibiotics for the infection.
+Health, At the Pharmacy, Medications, Painkillers, Painkillers help reduce headaches.
+Health, At the Pharmacy, Medications, Antidepressants, Antidepressants are used to treat depression.
+Health, At the Pharmacy, Medications, Antihistamines, Antihistamines help with allergies.
+Health, At the Pharmacy, Medications, Sleeping Pills, Sleeping pills should not be taken regularly.
+Health, At the Pharmacy, Medications, Vitamins, Daily vitamins support overall health.
+Health, At the Pharmacy, Medications, Supplements, Supplements provide extra nutrients.
+Health, At the Pharmacy, Medications, Blood Pressure Medication, He takes blood pressure medication daily.
+Health, At the Pharmacy, Medications, Diabetes Medication, Diabetes medication helps control blood sugar.
+Health, At the Pharmacy, Medications, Antiviral Drugs, Antiviral drugs help fight infections.
+Health, At the Pharmacy, Medications, Cough Syrup, Cough syrup soothes throat irritation.
+Health, At the Pharmacy, Medications, Nasal Spray, Nasal spray relieves congestion.
+Health, At the Pharmacy, Medications, Digestive Enzymes, Digestive enzymes aid in food breakdown.
+Health, At the Pharmacy, Medications, Probiotics, Probiotics improve gut health.
+Health, At the Pharmacy, Medications, Skin Cream, Skin cream treats dry skin.
+Health, At the Pharmacy, Medications, Steroids, Steroids reduce inflammation.
+Health, Healthy Living, Lifestyle, Balanced Diet, A balanced diet includes fruits and vegetables.
+Health, Healthy Living, Lifestyle, Nutritional Supplements, Nutritional supplements provide essential vitamins.
+Health, Healthy Living, Lifestyle, Exercise Routine, A daily exercise routine improves fitness.
+Health, Healthy Living, Lifestyle, Mental Health Awareness, Mental health awareness is important for well-being.
+Health, Healthy Living, Lifestyle, Stress Management, Stress management techniques include meditation.
+Health, Healthy Living, Lifestyle, Sleep Hygiene, Good sleep hygiene improves rest quality.
+Health, Healthy Living, Lifestyle, Yoga, Yoga helps improve flexibility and relaxation.
+Health, Healthy Living, Lifestyle, Meditation, Meditation reduces anxiety and stress.
+Health, Healthy Living, Lifestyle, Weight Loss Program, A weight loss program includes diet and exercise.
+Health, Healthy Living, Lifestyle, Hydration, Drinking water is essential for hydration.
+Health, Healthy Living, Workplace Health, Occupational Health, Occupational health focuses on workplace safety.
+Health, Healthy Living, Workplace Health, Workplace Ergonomics, Workplace ergonomics prevent back pain.
+Health, Healthy Living, Workplace Health, Burnout Prevention, Burnout prevention includes work-life balance.
+Health, Healthy Living, Workplace Health, Work-Life Balance, Work-life balance reduces stress.
+Health, Healthy Living, Workplace Health, Health Checkups at Work, Regular health checkups prevent diseases.
+Health, Healthy Living, Workplace Health, Healthy Office Snacks, Healthy office snacks improve productivity.
+Health, Healthy Living, Workplace Health, Employee Fitness Programs, Employee fitness programs encourage physical activity.
+Health, Emergency Care, First Aid, CPR, CPR can save a life during cardiac arrest.
+Health, Emergency Care, First Aid, Heimlich Maneuver, The Heimlich maneuver helps choking victims.
+Health, Emergency Care, First Aid, Bandaging, Bandaging a wound stops bleeding.
+Health, Emergency Care, First Aid, First Aid Kit, A first aid kit is essential for emergencies.
+Health, Emergency Care, First Aid, Emergency Contact Number, An emergency contact number should be accessible.
+Health, Emergency Care, Emergency Situations, Heart Attack, A heart attack requires immediate medical attention.
+Health, Emergency Care, Emergency Situations, Stroke, A stroke can cause sudden numbness.
+Health, Emergency Care, Emergency Situations, Car Accident, A car accident may cause serious injuries.
+Health, At the Doctor’s, Medical Consultation, Telemedicine, Telemedicine allows remote consultations.
+Health, At the Doctor’s, Medical Consultation, Second Opinion, A second opinion can confirm a diagnosis.
+Health, At the Doctor’s, Medical Consultation, House Call, Some doctors offer house call services.
+Health, At the Doctor’s, Diagnosis & Tests, ECG, The ECG records heart activity.
+Health, At the Doctor’s, Diagnosis & Tests, Ultrasound, An ultrasound is used for pregnancy monitoring.
+Health, At the Doctor’s, Diagnosis & Tests, Skin Biopsy, A skin biopsy can detect diseases.
+Health, At the Doctor’s, Treatment, Pain Therapy, Pain therapy includes acupuncture.
+Health, At the Doctor’s, Treatment, Home Remedies, Some colds can be treated with home remedies.
+Health, At the Doctor’s, Treatment, Occupational Therapy, Occupational therapy helps people regain daily skills.
+Health, At the Doctor’s, Symptoms, Cold Sweats, Cold sweats can be a sign of anxiety.
+Health, At the Doctor’s, Symptoms, Insomnia, Insomnia affects sleep quality.
+Health, At the Doctor’s, Symptoms, Hypertension, Hypertension increases the risk of stroke.
+Health, At the Doctor’s, Symptoms, Dehydration, Dehydration can cause dizziness.
+Health, Other Health Professionals, Medical Specialties, Rheumatologist, A rheumatologist treats arthritis and joint issues.
+Health, Other Health Professionals, Medical Specialties, Ophthalmologist, An ophthalmologist specializes in eye health.
+Health, Other Health Professionals, Medical Specialties, Speech Therapist, A speech therapist helps with communication disorders.
+Health, Other Health Professionals, Medical Specialties, Podiatrist, A podiatrist treats foot conditions.
+Health, Other Health Professionals, Medical Specialties, Audiologist, An audiologist diagnoses hearing loss.
+Health, Other Health Professionals, Medical Specialties, Dietitian, A dietitian provides nutritional advice.
+Health, At the Pharmacy, Medications, Antacids, Antacids relieve heartburn.
+Health, At the Pharmacy, Medications, Laxatives, Laxatives help with constipation.
+Health, At the Pharmacy, Medications, Anti-inflammatory Drugs, Anti-inflammatory drugs reduce swelling.
+Health, At the Pharmacy, Medications, Throat Lozenges, Throat lozenges soothe sore throats.
+Health, At the Pharmacy, Medications, Hydrocortisone Cream, Hydrocortisone cream treats skin inflammation.
+Health, At the Pharmacy, Medications, Ear Drops, Ear drops relieve ear infections.
+Health, At the Pharmacy, Medications, Antifungal Cream, Antifungal cream treats athlete’s foot.
+Health, Healthy Living, Lifestyle, Plant-Based Diet, A plant-based diet excludes animal products.
+Health, Healthy Living, Lifestyle, High-Protein Diet, A high-protein diet supports muscle growth.
+Health, Healthy Living, Lifestyle, Superfoods, Superfoods are rich in nutrients.
+Health, Healthy Living, Lifestyle, Mindfulness, Mindfulness improves mental focus.
+Health, Healthy Living, Lifestyle, Herbal Medicine, Herbal medicine uses natural plants for treatment.
+Health, Healthy Living, Lifestyle, Strength Training, Strength training builds muscle mass.
+Health, Healthy Living, Lifestyle, Breathing Exercises, Breathing exercises help reduce stress.
+Health, Healthy Living, Workplace Health, Standing Desk, A standing desk reduces back pain.
+Health, Healthy Living, Workplace Health, Screen Time Management, Managing screen time protects eye health.
+Health, Healthy Living, Workplace Health, Mental Health Days, Mental health days help prevent burnout.
+Health, Healthy Living, Workplace Health, Workplace Vaccination, Workplace vaccination programs prevent illness.
+Health, Emergency Care, First Aid, Defibrillator, A defibrillator can restart the heart.
+Health, Emergency Care, First Aid, Ice Pack, An ice pack reduces swelling.
+Health, Emergency Care, First Aid, Splint, A splint stabilizes a broken bone.
+Health, Emergency Care, First Aid, Choking Rescue, Choking rescue techniques save lives.
+Health, Emergency Care, Emergency Situations, Asthma Attack, An asthma attack requires an inhaler.
+Health, Emergency Care, Emergency Situations, Allergic Reaction, A severe allergic reaction needs an EpiPen.
+Health, Emergency Care, Emergency Situations, Heat Stroke, Heat stroke requires cooling and hydration.
+Health, Emergency Care, Emergency Situations, Poisoning, Poisoning requires immediate medical attention.
+Health, Emergency Care, Emergency Situations, Seizure, A seizure can cause uncontrolled movements.
+Health, Emergency Care, Emergency Situations, Burns, Minor burns should be treated with cold water.
+Health,At the Doctor’s,Medical Consultation,Emergency Consultation,Emergency consultation is urgent.
+Health,At the Doctor’s,Medical Consultation,Walk-in Clinic,Walk-in clinics offer quick care.
+Health,At the Doctor’s,Medical Consultation,Telehealth,Telehealth allows remote consultations.
+Health,At the Doctor’s,Diagnosis & Tests,CT Scan,CT scan provides detailed images.
+Health,At the Doctor’s,Diagnosis & Tests,Blood Sugar Test,Blood sugar test checks diabetes.
+Health,At the Doctor’s,Diagnosis & Tests,Vision Test,Vision test evaluates eyesight.
+Health,At the Doctor’s,Symptoms,Swelling,Swelling may indicate infection.
+Health,At the Doctor’s,Symptoms,Palpitations,Palpitations can be due to stress.
+Health,At the Doctor’s,Symptoms,Numbness,Numbness may suggest nerve issues.
+Health,At the Doctor’s,Medical Conditions,Asthma,Asthma causes breathing problems.
+Health,At the Doctor’s,Medical Conditions,Anemia,Anemia results from low iron.
+Health,At the Doctor’s,Medical Conditions,Osteoporosis,Osteoporosis weakens bones.
+Health,At the Pharmacy,Medications,Decongestants,Decongestants relieve nasal congestion.
+Health,At the Pharmacy,Medications,Muscle Relaxants,Muscle relaxants ease tension.
+Health,At the Pharmacy,Medications,Antipsychotics,Antipsychotics treat mental disorders.
+Health,At the Pharmacy,Medication Instructions,Dosage Form,Medicines have different dosage forms.
+Health,At the Pharmacy,Medication Instructions,Injection Site,Injection sites must be clean.
+Health,Healthy Living,Preventive Care,Annual Checkup,Annual checkups detect issues early.
+Health,Healthy Living,Preventive Care,Flu Shot,Flu shots prevent seasonal flu.
+Health,Healthy Living,Preventive Care,Blood Donation,Blood donation saves lives.
+Health,Healthy Living,Public Health,Hygiene Practices,Good hygiene prevents infections.
+Health,Healthy Living,Public Health,Hand Sanitizer,Hand sanitizer kills bacteria.
+Health,Healthy Living,Mental Health,Anxiety Disorder,Anxiety disorder affects daily life.
+Health,Healthy Living,Mental Health,Depression Treatment,Depression treatment includes therapy.
+Health,Healthy Living,Mental Health,Therapeutic Counseling,Therapeutic counseling helps stress.
+Health,Healthy Living,Workplace Health,Noise Pollution,Noise pollution affects focus.
+Health,Healthy Living,Workplace Health,Blue Light Filter,Blue light filters reduce eye strain.
+Health,Healthy Living,Workplace Health,Ergonomic Keyboard,Ergonomic keyboards prevent pain.
+Health,Emergency Care,First Aid,Basic Life Support,Basic life support includes CPR.
+Health,Emergency Care,First Aid,Shock Treatment,Shock treatment stabilizes patients.
+Health,Emergency Care,First Aid,Allergic Reaction Kit,Allergic kits include antihistamines.
+Health,Emergency Care,Emergency Situations,Heat Exhaustion,Heat exhaustion needs hydration.
+Health,Emergency Care,Emergency Situations,Frostbite,Frostbite occurs in cold weather.
+Health,At the Doctor’s,Medical Consultation,Check-in Desk,The check-in desk handles patient registration.
+Health,At the Doctor’s,Medical Consultation,Medical Records,Medical records keep patient history.
+Health,At the Doctor’s,Medical Consultation,Follow-up Appointment,A follow-up appointment tracks recovery.
+Health,At the Doctor’s,Diagnosis & Tests,Urine Test,A urine test detects infections.
+Health,At the Doctor’s,Diagnosis & Tests,Cholesterol Test,Cholesterol tests measure fat levels.
+Health,At the Doctor’s,Diagnosis & Tests,Allergy Screening,Allergy screening identifies allergic reactions.
+Health,At the Doctor’s,Symptoms,Cold Symptoms,Cold symptoms include sneezing and coughing.
+Health,At the Doctor’s,Symptoms,Back Pain,Back pain can result from poor posture.
+Health,At the Doctor’s,Symptoms,Earache,An earache may be due to infection.
+Health,At the Doctor’s,Medical Conditions,Diabetes,Diabetes affects blood sugar levels.
+Health,At the Doctor’s,Medical Conditions,Hypertension,Hypertension can lead to heart disease.
+Health,At the Doctor’s,Medical Conditions,Gastroenteritis,Gastroenteritis causes stomach issues.
+Health,At the Pharmacy,Medications,Cough Drops,Cough drops soothe throat irritation.
+Health,At the Pharmacy,Medications,Sleep Aid,Sleep aids improve sleep quality.
+Health,At the Pharmacy,Medications,Steroid Inhaler,A steroid inhaler helps asthma patients.
+Health,At the Pharmacy,Medication Instructions,Drug Label,The drug label provides usage information.
+Health,At the Pharmacy,Medication Instructions,Refill Prescription,Refill prescriptions before running out.
+Health,Healthy Living,Workplace Health,Hand Washing,Hand washing prevents germ spread.
+Health,Healthy Living,Workplace Health,Office Ventilation,Good office ventilation improves air quality.
+Health,Healthy Living,Preventive Care,Dental Cleaning,Dental cleaning prevents cavities.
+Health,Healthy Living,Preventive Care,Vision Screening,Vision screening detects eye problems.
+Health,Emergency Care,First Aid,Burn Cream,Burn cream soothes minor burns.
+Health,Emergency Care,First Aid,Tourniquet,A tourniquet stops severe bleeding.
+Health,Emergency Care,Emergency Situations,Concussion,A concussion requires immediate medical evaluation.
+Health,Emergency Care,Emergency Situations,Broken Bone,A broken bone needs immobilization.
+Health,At the Doctor’s,Medical Consultation,Triage,Triage determines patient priority.
+Health,At the Doctor’s,Medical Consultation,Discharge Summary,Discharge summary includes instructions.
+Health,At the Doctor’s,Medical Consultation,Medical Certificate,Medical certificate may be required.
+Health,At the Doctor’s,Diagnosis & Tests,Skin Test,Skin test detects allergies.
+Health,At the Doctor’s,Diagnosis & Tests,Bone Density Scan,Bone density scan detects osteoporosis.
+Health,At the Doctor’s,Diagnosis & Tests,Stool Sample,Stool sample helps diagnose issues.
+Health,At the Doctor’s,Symptoms,Blurred Vision,Blurred vision can indicate strain.
+Health,At the Doctor’s,Symptoms,Nosebleed,Nosebleeds may indicate high pressure.
+Health,At the Doctor’s,Symptoms,Loss of Taste,Loss of taste may be infection.
+Health,At the Doctor’s,Medical Conditions,Liver Disease,Liver disease affects detoxification.
+Health,At the Doctor’s,Medical Conditions,Kidney Stones,Kidney stones cause severe pain.
+Health,At the Doctor’s,Medical Conditions,Thyroid Disorder,Thyroid disorder affects metabolism.
+Health,At the Pharmacy,Medications,Antacids,Antacids relieve heartburn.
+Health,At the Pharmacy,Medications,Insulin,Insulin controls blood sugar.
+Health,At the Pharmacy,Medications,Epinephrine Auto-Injector,Epinephrine auto-injector treats allergies.
+Health,At the Pharmacy,Medication Instructions,Shake Well,Shake well before use.
+Health,At the Pharmacy,Medication Instructions,Take with Food,Take with food to avoid irritation.
+Health,Healthy Living,Workplace Health,Standing Breaks,Standing breaks prevent sitting fatigue.
+Health,Healthy Living,Workplace Health,Noise Cancelling Headphones,Noise-canceling headphones improve focus.
+Health,Healthy Living,Preventive Care,Skin Cancer Screening,Skin screening detects melanoma early.
+Health,Healthy Living,Preventive Care,Breast Exam,Breast exam detects lumps early.
+Health,Emergency Care,First Aid,Snake Bite Kit,Snake bite kit treats venomous bites.
+Health,Emergency Care,First Aid,Eye Wash Station,Eye wash station is essential.
+Health,Emergency Care,Emergency Situations,Electrocution,Electrocution requires immediate attention.
+Health,Emergency Care,Emergency Situations,Collapsed Lung,Collapsed lung is life-threatening.
+Health,At the Doctor’s,Medical Consultation,Routine Screening,Routine screening helps detect issues early.
+Health,At the Doctor’s,Medical Consultation,Referral Letter,A referral letter is needed for a specialist.
+Health,At the Doctor’s,Medical Consultation,Check-up Reminder,Check-up reminders help schedule appointments.
+Health,At the Doctor’s,Diagnosis & Tests,Hearing Test,A hearing test detects hearing loss.
+Health,At the Doctor’s,Diagnosis & Tests,Lung Function Test,A lung function test measures breathing capacity.
+Health,At the Doctor’s,Diagnosis & Tests,Electrocardiogram (ECG),An ECG monitors heart activity.
+Health,At the Doctor’s,Symptoms,Weakness,Weakness can be a sign of illness.
+Health,At the Doctor’s,Symptoms,Cold Hands,Cold hands may indicate poor circulation.
+Health,At the Doctor’s,Symptoms,Frequent Urination,Frequent urination may be linked to diabetes.
+Health,At the Doctor’s,Medical Conditions,Gout,Gout causes joint inflammation.
+Health,At the Doctor’s,Medical Conditions,Epilepsy,Epilepsy leads to recurrent seizures.
+Health,At the Doctor’s,Medical Conditions,Meningitis,Meningitis affects the brain and spinal cord.
+Health,At the Pharmacy,Medications,Pain Relief Patch,A pain relief patch delivers medicine through the skin.
+Health,At the Pharmacy,Medications,Cough Suppressant,A cough suppressant reduces coughing.
+Health,At the Pharmacy,Medications,Eye Drops,Eye drops relieve dry eyes.
+Health,At the Pharmacy,Medication Instructions,Store in a Cool Place,Some medicines require cool storage.
+Health,At the Pharmacy,Medication Instructions,Take on an Empty Stomach,Certain drugs work best on an empty stomach.
+Health,Healthy Living,Workplace Health,Health Risk Assessment,A health risk assessment evaluates employee health.
+Health,Healthy Living,Workplace Health,Emergency Exit Plan,Every workplace should have an emergency exit plan.
+Health,Healthy Living,Preventive Care,Vaccination Booster,A vaccination booster strengthens immunity.
+Health,Healthy Living,Preventive Care,Cholesterol Management,Managing cholesterol reduces heart disease risk.
+Health,Emergency Care,First Aid,Pressure Bandage,A pressure bandage controls bleeding.
+Health,Emergency Care,First Aid,Artificial Respiration,Artificial respiration helps unconscious patients breathe.
+Health,Emergency Care,Emergency Situations,Drowning Rescue,Drowning rescue requires CPR if needed.
+Health,Emergency Care,Emergency Situations,Chemical Exposure,Chemical exposure requires immediate washing.
+Health,At the Doctor’s,Medical Consultation,Online Appointment,Online appointments make scheduling easier.
+Health,At the Doctor’s,Medical Consultation,Medical History,Medical history helps in diagnosis.
+Health,At the Doctor’s,Medical Consultation,Patient Consent,Patient consent is required for procedures.
+Health,At the Doctor’s,Diagnosis & Tests,Blood Oxygen Test,A blood oxygen test checks oxygen levels.
+Health,At the Doctor’s,Diagnosis & Tests,Hormone Test,Hormone tests help detect imbalances.
+Health,At the Doctor’s,Diagnosis & Tests,Urinalysis,Urinalysis helps diagnose kidney problems.
+Health,At the Doctor’s,Symptoms,Chronic Fatigue,Chronic fatigue affects daily life.
+Health,At the Doctor’s,Symptoms,Skin Discoloration,Skin discoloration may indicate a condition.
+Health,At the Doctor’s,Symptoms,Severe Cramps,Severe cramps may require medical attention.
+Health,At the Doctor’s,Medical Conditions,Arthritis,Arthritis causes joint pain.
+Health,At the Doctor’s,Medical Conditions,Pneumonia,Pneumonia affects the lungs.
+Health,At the Doctor’s,Medical Conditions,Hepatitis,Hepatitis affects liver function.
+Health,At the Pharmacy,Medications,Antidepressant,Antidepressants help treat depression.
+Health,At the Pharmacy,Medications,Diuretic,Diuretics help remove excess water.
+Health,At the Pharmacy,Medications,Anticoagulant,Anticoagulants prevent blood clots.
+Health,At the Pharmacy,Medication Instructions,Take Before Bed,Some medications should be taken before bed.
+Health,At the Pharmacy,Medication Instructions,Do Not Crush,Some tablets must not be crushed.
+Health,Healthy Living,Workplace Health,Standing Desk Policy,A standing desk policy improves posture.
+Health,Healthy Living,Workplace Health,Stress Reduction Program,Stress reduction programs improve well-being.
+Health,Healthy Living,Preventive Care,Blood Sugar Monitoring,Blood sugar monitoring helps manage diabetes.
+Health,Healthy Living,Preventive Care,Bone Health Check,Bone health checks detect osteoporosis.
+Health,Emergency Care,First Aid,Heat Pack,A heat pack relieves muscle pain.
+Health,Emergency Care,First Aid,Cold Compress,Cold compresses reduce swelling.
+Health,Emergency Care,Emergency Situations,Severe Allergic Reaction,Severe allergic reactions need urgent care.
+Health,Emergency Care,Emergency Situations,Heart Failure,Heart failure requires immediate treatment.
+Health,At the Doctor’s,Medical Consultation,Virtual Consultation,Virtual consultations are available online.
+Health,At the Doctor’s,Medical Consultation,Home Visit,Some doctors offer home visits.
+Health,At the Doctor’s,Medical Consultation,Patient Intake Form,Patients must fill a patient intake form.
+Health,At the Doctor’s,Diagnosis & Tests,Blood Culture Test,A blood culture test detects infections.
+Health,At the Doctor’s,Diagnosis & Tests,Allergy Patch Test,Allergy patch tests identify skin reactions.
+Health,At the Doctor’s,Diagnosis & Tests,Genetic Testing,Genetic testing helps detect hereditary diseases.
+Health,At the Doctor’s,Symptoms,Persistent Cough,A persistent cough may indicate infection.
+Health,At the Doctor’s,Symptoms,Chills,Chills often accompany fever.
+Health,At the Doctor’s,Symptoms,Swollen Lymph Nodes,Swollen lymph nodes may signal infection.
+Health,At the Doctor’s,Medical Conditions,Lupus,Lupus is an autoimmune disease.
+Health,At the Doctor’s,Medical Conditions,Multiple Sclerosis,Multiple sclerosis affects the nervous system.
+Health,At the Doctor’s,Medical Conditions,Parkinson’s Disease,Parkinson’s disease affects movement control.
+Health,At the Pharmacy,Medications,Nasal Spray,Nasal sprays help relieve congestion.
+Health,At the Pharmacy,Medications,Muscle Relaxant,Muscle relaxants reduce spasms.
+Health,At the Pharmacy,Medications,Corticosteroid,Corticosteroids reduce inflammation.
+Health,At the Pharmacy,Medication Instructions,Shake Before Use,Some liquids must be shaken before use.
+Health,At the Pharmacy,Medication Instructions,Store in Refrigerator,Some medicines require refrigeration.
+Health,Healthy Living,Workplace Health,Mental Health Hotline,Some companies offer a mental health hotline.
+Health,Healthy Living,Workplace Health,Office Air Quality,Good air quality reduces sickness.
+Health,Healthy Living,Preventive Care,Cardiac Screening,Cardiac screening helps prevent heart issues.
+Health,Healthy Living,Preventive Care,Flu Prevention Program,Flu prevention programs reduce infections.
+Health,Emergency Care,First Aid,Burn Dressing,Burn dressings protect damaged skin.
+Health,Emergency Care,First Aid,Splint Application,Splints stabilize broken bones.
+Health,Emergency Care,Emergency Situations,Fainting,Fainting may be caused by low blood pressure.
+Health,Emergency Care,Emergency Situations,Heatstroke,Heatstroke can be life-threatening.
+Health,At the Doctor’s,Medical Consultation,Virtual Consultation,Virtual consultations are available online.
+Health,At the Doctor’s,Medical Consultation,Home Visit,Some doctors offer home visits.
+Health,At the Doctor’s,Medical Consultation,Patient Intake Form,Patients must fill a patient intake form.
+Health,At the Doctor’s,Diagnosis & Tests,Blood Culture Test,A blood culture test detects infections.
+Health,At the Doctor’s,Diagnosis & Tests,Allergy Patch Test,Allergy patch tests identify skin reactions.
+Health,At the Doctor’s,Diagnosis & Tests,Genetic Testing,Genetic testing helps detect hereditary diseases.
+Health,At the Doctor’s,Symptoms,Persistent Cough,A persistent cough may indicate infection.
+Health,At the Doctor’s,Symptoms,Chills,Chills often accompany fever.
+Health,At the Doctor’s,Symptoms,Swollen Lymph Nodes,Swollen lymph nodes may signal infection.
+Health,At the Doctor’s,Medical Conditions,Lupus,Lupus is an autoimmune disease.
+Health,At the Doctor’s,Medical Conditions,Multiple Sclerosis,Multiple sclerosis affects the nervous system.
+Health,At the Doctor’s,Medical Conditions,Parkinson’s Disease,Parkinson’s disease affects movement control.
+Health,At the Pharmacy,Medications,Nasal Spray,Nasal sprays help relieve congestion.
+Health,At the Pharmacy,Medications,Muscle Relaxant,Muscle relaxants reduce spasms.
+Health,At the Pharmacy,Medications,Corticosteroid,Corticosteroids reduce inflammation.
+Health,At the Pharmacy,Medication Instructions,Shake Before Use,Some liquids must be shaken before use.
+Health,At the Pharmacy,Medication Instructions,Store in Refrigerator,Some medicines require refrigeration.
+Health,Healthy Living,Workplace Health,Mental Health Hotline,Some companies offer a mental health hotline.
+Health,Healthy Living,Workplace Health,Office Air Quality,Good air quality reduces sickness.
+Health,Healthy Living,Preventive Care,Cardiac Screening,Cardiac screening helps prevent heart issues.
+Health,Healthy Living,Preventive Care,Flu Prevention Program,Flu prevention programs reduce infections.
+Health,Emergency Care,First Aid,Burn Dressing,Burn dressings protect damaged skin.
+Health,Emergency Care,First Aid,Splint Application,Splints stabilize broken bones.
+Health,Emergency Care,Emergency Situations,Fainting,Fainting may be caused by low blood pressure.
+Health,Emergency Care,Emergency Situations,Heatstroke,Heatstroke can be life-threatening.
+Health,At the Doctor’s,Medical Consultation,Second Opinion,A second opinion can confirm a diagnosis.
+Health,At the Doctor’s,Medical Consultation,Walk-in Patient,Walk-in patients do not need appointments.
+Health,At the Doctor’s,Medical Consultation,Medical Referral,A medical referral is needed for specialists.
+Health,At the Doctor’s,Diagnosis & Tests,Thyroid Function Test,Thyroid function tests detect hormonal imbalances.
+Health,At the Doctor’s,Diagnosis & Tests,MRI Contrast,MRI contrast enhances imaging clarity.
+Health,At the Doctor’s,Diagnosis & Tests,Colonoscopy,A colonoscopy screens for colon diseases.
+Health,At the Doctor’s,Symptoms,Vertigo,Vertigo causes dizziness and imbalance.
+Health,At the Doctor’s,Symptoms,Chest Tightness,Chest tightness can signal heart issues.
+Health,At the Doctor’s,Symptoms,Tingling Sensation,A tingling sensation may indicate nerve damage.
+Health,At the Doctor’s,Medical Conditions,Fibromyalgia,Fibromyalgia causes widespread pain.
+Health,At the Doctor’s,Medical Conditions,Endometriosis,Endometriosis affects the reproductive system.
+Health,At the Doctor’s,Medical Conditions,Celiac Disease,Celiac disease is triggered by gluten.
+Health,At the Pharmacy,Medications,Laxative,Laxatives relieve constipation.
+Health,At the Pharmacy,Medications,Antihistamine,Antihistamines help treat allergies.
+Health,At the Pharmacy,Medications,Beta Blocker,Beta blockers regulate heart rate.
+Health,At the Pharmacy,Medication Instructions,Avoid Alcohol,Some drugs must not be taken with alcohol.
+Health,At the Pharmacy,Medication Instructions,Take with Water,Certain pills require plenty of water.
+Health,Healthy Living,Workplace Health,Hydration Stations,Hydration stations promote water intake.
+Health,Healthy Living,Workplace Health,Posture Support,Posture support prevents back pain.
+Health,Healthy Living,Preventive Care,Hearing Protection,Hearing protection prevents noise-induced damage.
+Health,Healthy Living,Preventive Care,Skin Hydration,Skin hydration maintains elasticity.
+Health,Emergency Care,First Aid,Wound Irrigation,Wound irrigation cleans injuries.
+Health,Emergency Care,First Aid,Oxygen Therapy,Oxygen therapy assists breathing issues.
+Health,Emergency Care,Emergency Situations,Stroke Warning Signs,Stroke warning signs require immediate care.
+Health,Emergency Care,Emergency Situations,Fracture Immobilization,Fracture immobilization prevents further injury.
+Health,At the Doctor’s,Medical Consultation,Health Checkup,A health checkup ensures early detection.
+Health,At the Doctor’s,Medical Consultation,Initial Diagnosis,An initial diagnosis helps determine treatment.
+Health,At the Doctor’s,Medical Consultation,Consultation Fee,A consultation fee is required before seeing a doctor.
+Health,At the Doctor’s,Diagnosis & Tests,Blood Pressure Check,Blood pressure checks monitor heart health.
+Health,At the Doctor’s,Diagnosis & Tests,Liver Function Test,Liver function tests check for liver diseases.
+Health,At the Doctor’s,Diagnosis & Tests,CT Angiography,CT angiography examines blood vessels.
+Health,At the Doctor’s,Symptoms,Shortness of Breath,Shortness of breath may indicate lung issues.
+Health,At the Doctor’s,Symptoms,Difficulty Swallowing,Difficulty swallowing can be a serious symptom.
+Health,At the Doctor’s,Symptoms,Swelling in Legs,Swelling in legs may be due to fluid retention.
+Health,At the Doctor’s,Medical Conditions,Hypertension,Hypertension increases the risk of stroke.
+Health,At the Doctor’s,Medical Conditions,Anemia,Anemia causes fatigue and weakness.
+Health,At the Doctor’s,Medical Conditions,Alzheimer’s Disease,Alzheimer’s disease affects memory and thinking.
+Health,At the Pharmacy,Medications,Sedative,Sedatives help patients relax.
+Health,At the Pharmacy,Medications,Antiviral Medication,Antiviral medication fights viral infections.
+Health,At the Pharmacy,Medications,Calcium Supplement,Calcium supplements strengthen bones.
+Health,At the Pharmacy,Medication Instructions,Take with Food,Some medications must be taken with food.
+Health,At the Pharmacy,Medication Instructions,Store in a Dry Place,Store medicine in a dry place.
+Health,Healthy Living,Workplace Health,Employee Assistance Program,EAP provides mental health support at work.
+Health,Healthy Living,Workplace Health,Noise Exposure Monitoring,Noise exposure monitoring prevents hearing loss.
+Health,Healthy Living,Preventive Care,Regular Exercise,Regular exercise helps maintain a healthy heart.
+Health,Healthy Living,Preventive Care,Dietary Consultation,Dietary consultations guide nutrition choices.
+Health,Emergency Care,First Aid,Basic First Aid Kit,A basic first aid kit includes essential supplies.
+Health,Emergency Care,First Aid,Bandage Application,Bandages help cover and protect wounds.
+Health,Emergency Care,Emergency Situations,Seizure First Aid,Seizure first aid prevents injuries during an episode.
+Health,Emergency Care,Emergency Situations,Breathing Difficulty,Breathing difficulty may require oxygen support.
+Health,At the Doctor’s,Medical Consultation,Annual Physical Exam,An annual physical exam ensures overall health.
+Health,At the Doctor’s,Medical Consultation,Emergency Triage,Emergency triage prioritizes critical patients.
+Health,At the Doctor’s,Medical Consultation,Specialist Consultation,Specialist consultations require a referral.
+Health,At the Doctor’s,Diagnosis & Tests,CT Scan,A CT scan provides detailed imaging.
+Health,At the Doctor’s,Diagnosis & Tests,Glucose Tolerance Test,A glucose tolerance test checks for diabetes.
+Health,At the Doctor’s,Diagnosis & Tests,X-Ray Imaging,X-ray imaging helps detect fractures.
+Health,At the Doctor’s,Symptoms,Sudden Weight Loss,Sudden weight loss may indicate illness.
+Health,At the Doctor’s,Symptoms,Excessive Sweating,Excessive sweating can be a sign of stress.
+Health,At the Doctor’s,Symptoms,Skin Rash,A skin rash may be caused by allergies.
+Health,At the Doctor’s,Medical Conditions,Migraine,Migraines cause severe headaches.
+Health,At the Doctor’s,Medical Conditions,Gastritis,Gastritis leads to stomach inflammation.
+Health,At the Doctor’s,Medical Conditions,Chronic Bronchitis,Chronic bronchitis affects lung function.
+Health,At the Pharmacy,Medications,Painkiller,Painkillers help manage pain.
+Health,At the Pharmacy,Medications,Antibiotic Ointment,Antibiotic ointment treats wounds.
+Health,At the Pharmacy,Medications,Cough Syrup,Cough syrup soothes throat irritation.
+Health,At the Pharmacy,Medication Instructions,Take on an Empty Stomach,Some pills work best on an empty stomach.
+Health,At the Pharmacy,Medication Instructions,Do Not Share Medication,Do not share medication with others.
+Health,Healthy Living,Workplace Health,Ergonomic Workstation,An ergonomic workstation prevents back pain.
+Health,Healthy Living,Workplace Health,Flexible Work Hours,Flexible work hours reduce stress.
+Health,Healthy Living,Preventive Care,Immunization Schedule,An immunization schedule prevents diseases.
+Health,Healthy Living,Preventive Care,Sun Protection,Sun protection prevents skin cancer.
+Health,Emergency Care,First Aid,Burn Care,Burn care includes applying cold water.
+Health,Emergency Care,First Aid,Choking Response,Choking response includes the Heimlich maneuver.
+Health,Emergency Care,Emergency Situations,Electric Shock Treatment,Electric shock treatment requires immediate help.
+Health,Emergency Care,Emergency Situations,Severe Bleeding,Severe bleeding needs immediate pressure application.
